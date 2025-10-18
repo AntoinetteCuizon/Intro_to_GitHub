@@ -2,7 +2,7 @@
 <html>
 <body>
 	<form method="post">
-		<label>Enter length in centimeters:</label>
+		<label>Enter the length in centimeters:</label>
 		<input type="number" name="cm">
 		<input type="submit" name="submit" value="Convert">
 	</form>
